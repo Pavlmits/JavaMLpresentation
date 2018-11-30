@@ -1,0 +1,15 @@
+48.8584,2.2945,Eiffel Tower
+48.8606,2.3376,Louvre Museum
+48.8530,2.3499,Notre-Dame de Paris
+48.8738, 2.2950,Arc de Triomphe
+48.870502,2.304897,Champs-Élysées
+48.8049,2.1204,Palace of Versailles
+48.8867,2.3431,Sacré-Cœur
+48.8862,2.3431,Montmartre
+48.8656,2.3212,Place de la Concorde
+48.8600,2.3266,Musée d'Orsay
+48.8587,2.3588,Le Marais
+48.8635,2.3275,Tuileries Garden
+48.8462,2.3372,Jardin du Luxembourg
+48.8841,2.3323,Moulin Rouge
+48.8571,2.3128,Les Invalides
